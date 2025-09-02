@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "interface-arrows-button-left--arrow-keyboard-left.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

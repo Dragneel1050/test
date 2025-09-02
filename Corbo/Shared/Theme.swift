@@ -1,0 +1,45 @@
+//
+
+import SwiftUI
+
+public class Theme {
+    static let textTitle = Font.custom("DepotNew-Regular", size: 23)
+    static let textHeader = Font.custom("DepotNew-Light", size: 20)
+    static let textHeaderNetwork = Font.custom("DepotNew-Light", size: 20)
+    static let questionsSelectionSecondary = Font.custom("DepotNew-Light", size: 20)
+    static let questionsSelectionSelected = Font.custom("DepotNew-Medium", size: 20)
+    static let textStoriesSuggested = Font.custom("DepotNew-Thin", size: 18)
+    static let textStoriesSuggestedMedium = Font.custom("DepotNew-Medium", size: 18)
+    static let textStories = Font.custom("DepotNew-Light", size: 18)
+    static let caption = Font.custom("DepotNew-Thin", size: 14)
+    static let chat = Font.custom("DepotNewCondensed-Light", size: 23)
+    static let chatOutput = Font.custom("Barlow-Light", size: 20)
+    static let onboardingSubtitle = Font.custom("DepotNew-Light", size: 16)
+    static let formLabelTitle = Font.custom("Barlow-Light", size: 20)
+    static let formLabelSubtitle = Font.custom("Barlow-Light", size: 18)
+    static let buttonText = Font.custom("Barlow-Medium", size: 18)
+    static let formPlaceHolder = Font.custom("Barlow-LightItalic", size: 18)
+    static let chatTextTranscript = Font.custom("Barlow-Light", size: 20)
+    static let condensedLightCaption = Font.custom("DepotNewCondensed-Light", size: 14)
+    static let toastText = Font.custom("DepotNew-Light", size: 16)
+    static let contactTrayTitle = Font.custom("Barlow-Light", size: 24)
+    static let contactTraySubtitle = Font.custom("DepotNew-Light", size: 14)
+    static let contactTrayPerson = Font.custom("Barlow-Medium", size: 14)
+    static let formPlaceholder = Font.custom("Barlow-LightItalic", size: 18)
+    static let contactName = Font.custom("Barlow-Regular", size: 23)
+    static let contactSubtitle = Font.custom("DepotNew-Light", size: 16)
+    static let monogram = Font.custom("DepotNew-Light", size: 80)
+    static let title = Font.custom("Barlow-Light", size: 24)
+    static let instructionCard = Font.custom("DepotNew-Light", size: 18)
+    static let settingButton = Font.custom("Barlow-Light", size: 20)
+
+
+    static let regular = Font.custom("DepotNew-Regular", size: 23)
+    static let light = Font.custom("DepotNew-Light", size: 23)
+    static let medium = Font.custom("DepotNew-Medium", size: 23)
+    static let condensedLight = Font.custom("DepotNewCondensed-Light", size: 23)
+    static let barlowLight = Font.custom("Barlow-Light", size: 18)
+    static let barlowRegular = Font.custom("Barlow-Regular", size: 23)
+    static let barlowMedium = Font.custom("Barlow-Medium", size: 23)
+    static let barlowLightItalic = Font.custom("Barlow-LightItalic", size: 23)
+}

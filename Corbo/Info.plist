@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>GIDServerClientID</key>
+	<string>5681675082-gdkarh11c5f4qpg24747h6kfjfn3skrv.apps.googleusercontent.com</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.5681675082-odju4tf90au3ebkdm2gfr0fuh8v6aosq</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.nomdevelopment.Corbo</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>5681675082-odju4tf90au3ebkdm2gfr0fuh8v6aosq.apps.googleusercontent.com</string>
+	<key>INIntentsSupported</key>
+	<array>
+		<string>CreateStoryIntent</string>
+	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>barlow-medium.ttf</string>
+		<string>depot-new-regular.otf</string>
+		<string>depot-new-medium.otf</string>
+		<string>depot-new-light.otf</string>
+		<string>depot-new-condensed-light.otf</string>
+		<string>barlow-light.ttf</string>
+		<string>depot-new-thin.otf</string>
+		<string>barlow-regular.ttf</string>
+		<string>barlow-lightItalic.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionAttributes</key>
+		<dict>
+			<key>NSExtensionActivationRule</key>
+			<dict>
+				<key>NSExtensionActivationSupportsText</key>
+				<true/>
+			</dict>
+		</dict>
+		<key>NSExtensionMainStoryboard</key>
+		<string>MainInterface</string>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.share-services</string>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>barlow-medium.ttf</string>
+		<string>depot-new-regular.otf</string>
+		<string>depot-new-medium.otf</string>
+		<string>depot-new-light.otf</string>
+		<string>depot-new-condensed-light.otf</string>
+		<string>barlow-light.ttf</string>
+		<string>depot-new-thin.otf</string>
+		<string>barlow-regular.ttf</string>
+		<string>barlow-lightItalic.ttf</string>
+	</array>
+</dict>
+</plist>

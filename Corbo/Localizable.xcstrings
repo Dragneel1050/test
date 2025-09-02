@@ -1,0 +1,811 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " in your recent Stories" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " in your recent Stories"
+          }
+        }
+      }
+    },
+    " is looking for a designer who has motion / 3D experience for immediate freelance opportunity." : {
+
+    },
+    " matching your query:" : {
+
+    },
+    " to capture important info about colleagues, events, and opportunities" : {
+
+    },
+    " to recall details and summarize insights from all your Stories and Contacts" : {
+
+    },
+    " unlocks the power of Corbo." : {
+
+    },
+    "\"%@\"" : {
+
+    },
+    "%@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@"
+          }
+        }
+      }
+    },
+    "%lld %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@"
+          }
+        }
+      }
+    },
+    "%lld %@ Used" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %2$@ Used"
+          }
+        }
+      }
+    },
+    "%lld contacts found" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld contact found"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld contacts found"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2 Contacts found" : {
+
+    },
+    "2 new stories \n" : {
+
+    },
+    "Add a story" : {
+
+    },
+    "Ask again" : {
+
+    },
+    "Ask Questions" : {
+
+    },
+    "Brandy Burt, Merlin Floyd" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "ChatView.Cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "ChatView.Context.Feedback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Submit feedback"
+          }
+        }
+      }
+    },
+    "ChatView.Context.Save" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save as story"
+          }
+        }
+      }
+    },
+    "ChatView.Context.StoriesUsed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stories used"
+          }
+        }
+      }
+    },
+    "ChatView.Leave" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leave"
+          }
+        }
+      }
+    },
+    "ChatView.LeavingWarning" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You will lose your changes if you leave now!"
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.ContactSearch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Searching your contacts..."
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.Listening" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I'm listening..."
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.QuestionCapture" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I'm capturing your Question..."
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.ReadyToSave" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready to save your Story? You can also tap ( + ) to add more."
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.StoryAdding" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I'm adding to your story"
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.StoryCapture" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I'm capturing your Story..."
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.StorySearch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Searching your stories..."
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.StorySuccess" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Got it!"
+          }
+        }
+      }
+    },
+    "ChatViewModel.Prompts.TextMode" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I’m ready to help. Type away…"
+          }
+        }
+      }
+    },
+    "ChatViewModel.SessionHistoryError" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Session history not found"
+          }
+        }
+      }
+    },
+    "CONTACT DETAILS" : {
+
+    },
+    "ContactCreation.Placeholder0" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First Name"
+          }
+        }
+      }
+    },
+    "ContactCreation.Placeholder1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last Name"
+          }
+        }
+      }
+    },
+    "ContactCreation.Placeholder2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "email@company.com"
+          }
+        }
+      }
+    },
+    "ContactCreation.Placeholder3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(123) 345-7890"
+          }
+        }
+      }
+    },
+    "ContactCreation.Placeholder4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alias (eg. Mom or Joey)"
+          }
+        }
+      }
+    },
+    "ContactCreation.Prompt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create new contact"
+          }
+        }
+      }
+    },
+    "ContactSearch.Prompt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search your contacts"
+          }
+        }
+      }
+    },
+    "ContactSearch.SaveContact" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Contact"
+          }
+        }
+      }
+    },
+    "Copy" : {
+
+    },
+    "CORBO" : {
+
+    },
+    "Corbo will not share or message your contacts without you taking explicit actions in the app." : {
+
+    },
+    "Corbo will not share your calendar without you taking explicit actions in the app." : {
+
+    },
+    "Create new contact" : {
+
+    },
+    "Create Stories" : {
+
+    },
+    "Create story" : {
+
+    },
+    "Created: %@" : {
+
+    },
+    "Default chat mode" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Do you want to add a story for:" : {
+
+    },
+    "Done" : {
+
+    },
+    "Enable location access for assistance with places and enhanced experiences" : {
+
+    },
+    "Enter the code sent to %@" : {
+
+    },
+    "EntityTray.ToggleSheet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle sheet"
+          }
+        }
+      }
+    },
+    "Error.GoogleLogin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to complete Google login"
+          }
+        }
+      }
+    },
+    "Feature preview" : {
+
+    },
+    "General.Google.Hint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calendar access allows Corbo to answer you based on your events."
+          }
+        }
+      }
+    },
+    "Getting Started" : {
+
+    },
+    "GOOGLE ACCOUNT" : {
+
+    },
+    "Google Maps" : {
+
+    },
+    "Hello, World!" : {
+
+    },
+    "Help" : {
+
+    },
+    "Hi %@" : {
+
+    },
+    "HomePermissionsWrapper.syncContacts" : {
+
+    },
+    "Intent.CreateStory.Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opens the app and starts recording in order to create a new story."
+          }
+        }
+      }
+    },
+    "Intent.CreateStory.Name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create story"
+          }
+        }
+      }
+    },
+    "Intro Request" : {
+
+    },
+    "It's harmful" : {
+
+    },
+    "It's not helpful" : {
+
+    },
+    "It's not true" : {
+
+    },
+    "Jill Wilson" : {
+
+    },
+    "Just tap it, then begin speaking to create a Story or Ask a question. You can also tap the Keyboard to chat via text." : {
+
+    },
+    "Leave" : {
+
+    },
+    "Let’s get you connected." : {
+
+    },
+    "Lunch at Cafe Mogul" : {
+
+    },
+    "Maps" : {
+
+    },
+    "MessageListView.PromptExamples" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can...\n\nAdd a Story:\n“I met Suzanne last week at the...”\n\nAsk a question about your network:\n“How do I know Rob Ulveling?”\n\nSearch your Contacts:\n“Show my contacts from Cal Berkeley?”\n\nSearch your stories:\n“Who have I met with that knows about investing in Robotics?”"
+          }
+        }
+      }
+    },
+    "Network Updates" : {
+
+    },
+    "No recent sessions" : {
+
+    },
+    "Onboarding.PhoneNumberPrompt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter your Phone Number"
+          }
+        }
+      }
+    },
+    "Onboarding.PhoneNumberSubtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We will send you a 4 digit code to log in."
+          }
+        }
+      }
+    },
+    "Onboarding.PhoneNumberVerify" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verify with SMS"
+          }
+        }
+      }
+    },
+    "Onboarding.PhoneNumberVerifyAndContinue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verify & Continue"
+          }
+        }
+      }
+    },
+    "Onboarding.PhoneNumberVerifyErrorInvalid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The code you enterered does not match or is not 4 digits long."
+          }
+        }
+      }
+    },
+    "Onboarding.PhoneNumberVerifyResend" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resend"
+          }
+        }
+      }
+    },
+    "Onboarding.ResendPrompt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Didn’t receive a code?"
+          }
+        }
+      }
+    },
+    "Onboarding.SelectCode" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a country code"
+          }
+        }
+      }
+    },
+    "Onboarding.Subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let’s get you signed in."
+          }
+        }
+      }
+    },
+    "Onboarding.Welcome" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome, power networker!"
+          }
+        }
+      }
+    },
+    "Open location in" : {
+
+    },
+    "Open Story >" : {
+
+    },
+    "Please log into the APP in order to start sharing content with Corbo" : {
+
+    },
+    "Recent Sessions" : {
+
+    },
+    "Rename Session" : {
+
+    },
+    "Review now" : {
+
+    },
+    "SETTINGS" : {
+
+    },
+    "Share" : {
+
+    },
+    "Show all %lld stories" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Show story"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Show all %lld stories"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Show message" : {
+
+    },
+    "Sign In " : {
+
+    },
+    "Sign In to Your Google Account" : {
+
+    },
+    "Sign in with Google" : {
+
+    },
+    "Sign out" : {
+
+    },
+    "Sign Out" : {
+
+    },
+    "Sign Out of this account" : {
+
+    },
+    "Skip for now" : {
+
+    },
+    "SMS Verification" : {
+
+    },
+    "StandaloneTextView.Prompt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feel free to write a story..."
+          }
+        }
+      }
+    },
+    "STORY" : {
+
+    },
+    "Story Used" : {
+
+    },
+    "StoryListView.ShowAllStories %lld" : {
+      "extractionState" : "manual"
+    },
+    "Submit your feedback" : {
+
+    },
+    "SubmitFeedbackView.SubmitQuestionFeedback" : {
+
+    },
+    "Suggested tasks" : {
+
+    },
+    "Switch Modes" : {
+
+    },
+    "Sync Now" : {
+
+    },
+    "Sync Your Contacts" : {
+
+    },
+    "Tell Us About You" : {
+
+    },
+    "The Chat Button" : {
+
+    },
+    "The power of context" : {
+
+    },
+    "There are no stories yet. Try creating a new story..." : {
+
+    },
+    "These are snapshots at the time the question was asked." : {
+
+    },
+    "This is a representation of a possible future feature and may change over time." : {
+
+    },
+    "This story will be permanently deleted!" : {
+
+    },
+    "We’ll import and use your email, events and contacts as stories to make Corbo smarter when answering your questions." : {
+
+    },
+    "We’ll use this to help create connections, insights and the start of the new super powers we help create." : {
+
+    },
+    "you could fine tune." : {
+
+    },
+    "You created \n" : {
+
+    },
+    "You will lose the text if you leave now!" : {
+
+    },
+    "You will lose your changes if you leave now!" : {
+
+    },
+    "Your Email Address" : {
+
+    },
+    "Your Name" : {
+
+    }
+  },
+  "version" : "1.0"
+}
