@@ -46,9 +46,10 @@ jobs:
             -scheme Corbo \
             -project Corbo.xcodeproj \
             -configuration Release \
-            -sdk iphonesimulator \
-            -destination 'platform=iOS Simulator,name=iPhone 14' \
-            clean build
+            clean build \
+            CODE_SIGN_IDENTITY="" \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=NO
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v3
