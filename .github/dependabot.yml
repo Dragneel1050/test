@@ -5,33 +5,12 @@
 
 version: 2
 updates:
-  # Enable version updates for Swift Package Manager
-  - package-ecosystem: "swift"
-    directory: "/"
-    schedule:
-      interval: "daily"
-      time: "09:00"
-      timezone: "UTC"
-    open-pull-requests-limit: 5
-    reviewers:
-      - "Dragneel1050"
-    assignees:
-      - "Dragneel1050"
-    commit-message:
-      prefix: "deps"
-      prefix-development: "deps-dev"
-      include: "scope"
-    labels:
-      - "dependencies"
-      - "swift"
-      - "automated"
-    
   # Enable version updates for GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
-      time: "10:00"
+      time: "09:00"
       timezone: "UTC"
     open-pull-requests-limit: 3
     reviewers:
