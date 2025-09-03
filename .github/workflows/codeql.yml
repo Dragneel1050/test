@@ -46,6 +46,8 @@ jobs:
             -scheme Corbo \
             -project Corbo.xcodeproj \
             -configuration Release \
+            -sdk iphonesimulator \
+            -destination 'platform=iOS Simulator,name=iPhone 14' \
             clean build
 
       - name: Perform CodeQL Analysis
